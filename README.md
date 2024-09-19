@@ -9,7 +9,7 @@ Any problem can be solved with a Web App.
 
 ## Skills
 
-- **Languages**: Javascript, C#, HTML5, CSS3, Java, Python, C, PHP
+- **Languages**: @exuanbo/file-icons-js, C#, HTML5, CSS3, Java, Python, C, PHP
 - **Databases**: MongoDB, MySQL
 - **Tools and Technologies**: Next.Js, Reach, Node.Js, Express, Postman, WordPress, Webflow, Shopify, Unity
 - **Collaboration**: GitHub, Figma
